@@ -3,7 +3,7 @@ module github.com/mongodb/terraform-provider-mongodbatlas
 go 1.16
 
 require (
-	github.com/go-test/deep v1.0.7
+	github.com/go-test/deep v1.1.0
 	github.com/gruntwork-io/terratest v0.37.7
 	github.com/hashicorp/hcl/v2 v2.10.0 // indirect
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.7.1
